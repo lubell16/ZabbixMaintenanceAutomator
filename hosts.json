@@ -1,0 +1,18 @@
+{
+    "TLAS": [
+        {
+            "Customers": "SAS",
+            "ENVS": [
+                "intsa20au.vsp.sas.com",
+                "intsa22au.vsp.sas.com"
+            ]
+        },
+        {
+            "Customers": "GAP",
+            "ENVS": [
+                "gap01au.vsp.sas.com",
+                "gap02au.vsp.sas.com"
+            ]
+        }
+    ]
+}
